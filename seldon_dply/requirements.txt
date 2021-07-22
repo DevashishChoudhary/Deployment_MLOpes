@@ -1,0 +1,3 @@
+pickle5
+sklearn
+seldon-core==1.4.0
